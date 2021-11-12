@@ -63,7 +63,7 @@ export class TypeaheadContainerComponent implements OnDestroy {
   top?: string;
   left?: string;
   display?: string;
-  placemen?: string;
+  placement?: string;
   dropup?: boolean;
   guiHeight?: string;
   needScrollbar?: boolean;
